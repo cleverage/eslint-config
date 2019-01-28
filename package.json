@@ -11,7 +11,12 @@
     "url": "git+https://github.com/cleverage/eslint-config.git"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "cleverage",
+    "javascript"
   ],
   "author": "Yvain Liechti",
   "license": "MIT",

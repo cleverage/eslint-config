@@ -27,7 +27,7 @@ npx install-peerdeps --dev @cleverage/eslint-config
 
 ```json
 {
-  "extends": "@cleverage/eslint-config"
+  "extends": "@cleverage"
 }
 ```
 

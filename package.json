@@ -26,7 +26,7 @@
   "homepage": "https://github.com/cleverage/eslint-config#readme",
   "peerDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.12.0",
+    "eslint": "^7.29.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-import": "^2.15.0",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.12.0",
+    "eslint": "^7.29.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-import": "^2.15.0",
